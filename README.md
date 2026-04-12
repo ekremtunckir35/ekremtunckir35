@@ -2,7 +2,7 @@
 
 # 👋 Merhaba, Ben Ekrem Tunçkır
 
-### 🔐 Cyber Security Trainee | 💻 Full Stack Java Developer | 📊 Data Scientist & ML Engineer
+### 🔐 Cyber Security Trainee | 💻 Full Stack Java Developer | 📊 Data Scientist · ML Engineer · DL Engineer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=TechPro+Education+%7C+Full+Stack+Java+Developer+%E2%9C%85;TechPro+Education+%7C+Data+Scientist+%26+ML+Engineer+%E2%9C%85;TryHackMe+Pre+Security+%7C+Linux+%7C+Command+Line+%E2%9C%85;%F0%9F%94%90+OakAcademy+-+Cyber+Security+Engineer+%E2%8F%B3;%F0%9F%94%90+OakAcademy+Cyber+Security+devam+ediyor..." alt="Typing SVG" />
 
@@ -76,14 +76,18 @@ class EkremTunckir:
          └── ML, DL, LLM, Generative AI, Prompt Engineering
 
 2024 — TechPro Education: Data Science & ML Engineer         ✅
+         └── Major: Data Scientist · ML Engineer · DL Engineer
          └── Python · Pandas · NumPy · Tableau · Power BI
          └── Machine Learning (153 saat) · Deep Learning (102 saat)
          └── NLP · Computer Vision · Reinforcement Learning · AWS · Docker
+         └── Mezuniyet: 07.06.2024 | Sertifika: 10.06.2024
 
 2025 — TechPro Education: Full Stack Java Developer           ✅
+         └── Major: Java Developer · Backend Developer · Frontend Developer
          └── Java (87 saat) · Spring Boot · Spring Security · Hibernate
          └── JavaScript (81 saat) · React.JS · Next.JS · CSS · Bootstrap
          └── SQL · MongoDB · Microservices · AWS · Docker
+         └── Mezuniyet: 25.08.2025 | Sertifika: 03.09.2025
 
 2026 — TryHackMe: Pre Security Learning Path                  ✅
          └── Ağ güvenliği temelleri · Web uygulama güvenliği
@@ -166,8 +170,8 @@ class EkremTunckir:
 
 | # | Sertifika | Kurum | Tarih |
 |---|-----------|-------|-------|
-| 🥇 | Full Stack Java Developer Program *(Java · Spring Boot · React · Next.js · Microservices)* | TechPro Education | Ağustos 2025 |
-| 🥇 | Data Science Program *(ML · Deep Learning · NLP · Computer Vision · AWS)* | TechPro Education | Haziran 2024 |
+| 🥇 | Full Stack Java Developer Program *(Java Developer · Backend Developer · Frontend Developer)* — Mezuniyet: 25.08.2025 | TechPro Education | 03.09.2025 |
+| 🥇 | Data Science Program *(Data Scientist · ML Engineer · DL Engineer)* — Mezuniyet: 07.06.2024 | TechPro Education | 10.06.2024 |
 | <img src="https://raw.githubusercontent.com/ekremtunckir35/ekremtunckir35/main/OakAcademy.png" height="20"/> | Cyber Security Engineer Online Course *(Devam Ediyor)* | [OakAcademy](https://oakacademy.de/en/) | 2026 ⏳ |
 | 🎯 | Pre Security Learning Path | TryHackMe | Ocak 2026 |
 | 🐧 | Introduction to Linux | Codecademy | Şubat 2026 |
@@ -236,8 +240,8 @@ UZUN VADE → Tam Cyber Security Portfolio                   🎯
 
 **✅ Tamamlananlar**
 - [x] TechPro Education — AI Literacy sertifikası *(May 2024)*
-- [x] TechPro Education — Data Science & ML Engineer sertifikası *(Haz 2024)*
-- [x] TechPro Education — Full Stack Java Developer sertifikası *(Ağu 2025)*
+- [x] TechPro Education — Data Science & ML Engineer sertifikası *(Mezuniyet: 07.06.2024 | Sertifika: 10.06.2024)*
+- [x] TechPro Education — Full Stack Java Developer sertifikası *(Mezuniyet: 25.08.2025 | Sertifika: 03.09.2025)*
 - [x] TryHackMe — Pre Security Learning Path *(Oca 2026)*
 - [x] Linux & Command Line temelleri — Codecademy *(Şub 2026)*
 
