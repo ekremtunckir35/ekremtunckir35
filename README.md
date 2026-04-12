@@ -4,7 +4,7 @@
 
 ### 🔐 Cyber Security Trainee | 💻 Full Stack Java Developer | 📊 Data Scientist & ML Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=TechPro+Education+%7C+Full+Stack+Java+Developer+%E2%9C%85;TechPro+Education+%7C+Data+Scientist+%26+ML+Engineer+%E2%9C%85;TryHackMe+Pre+Security+%7C+Linux+%7C+Command+Line+%E2%9C%85;Cyber+Security+yolculu%C4%9Fum+devam+ediyor+%F0%9F%94%90" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=TechPro+Education+%7C+Full+Stack+Java+Developer+%E2%9C%85;TechPro+Education+%7C+Data+Scientist+%26+ML+Engineer+%E2%9C%85;TryHackMe+Pre+Security+%7C+Linux+%7C+Command+Line+%E2%9C%85;LabEx+Hands-on+Cyber+Security+Labs+%F0%9F%94%90;Cyber+Security+yolculu%C4%9Fum+devam+ediyor+%F0%9F%94%90" alt="Typing SVG" />
 
 ---
 
@@ -32,6 +32,7 @@ class EkremTunckir:
             "Pre Security Learning Path"      : "TryHackMe (Oca 2026)",
             "Introduction to Linux"           : "Codecademy (Şub 2026)",
             "Learn the Command Line"          : "Codecademy (Şub 2026)",
+            "Hands-on Cyber Security Labs"    : "LabEx — Ethical Hacking, Nmap, Kali Linux (2026)",
         }
 
         self.philosophy  = """
@@ -44,6 +45,13 @@ class EkremTunckir:
         self.currently   = "Aktif olarak Cyber Security eğitimi alıyorum"
         self.learning    = ["Network Security", "Linux & CLI", "Ethical Hacking", "TryHackMe"]
         self.next_goal   = "SOC Analyst / Penetration Tester"
+
+        self.repos_now   = "Repolarda şu an gördüğüm derslerin pratik kodları mevcut"
+        self.repos_plan  = [
+            "Backend, Frontend ve Data Science projelerini geliştirip ekleyeceğim",
+            "Bu projeleri Cyber Security ile entegre edeceğim",
+            "Güvenli uygulama geliştirme + zafiyet analizi odaklı çalışacağım",
+        ]
 
     def contact(self):
         return {
@@ -77,6 +85,10 @@ class EkremTunckir:
 2026 — Codecademy: Introduction to Linux                      ✅
 2026 — Codecademy: Learn the Command Line                     ✅
 
+2026 — LabEx: Hands-on Cyber Security Labs                    ⏳
+         └── Ethical Hacking · Nmap · Wireshark · Kali Linux
+         └── Network Security · Cryptography · CTF
+
        🔐 Cyber Security — Aktif Öğrenme Süreci               ⏳
 ```
 
@@ -88,11 +100,14 @@ class EkremTunckir:
 ## 🔧 Teknoloji Yetkinlikleri
 
 ### 🔐 Cyber Security (Aktif Öğrenme)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/BY-EKREM)
+[![LabEx](https://img.shields.io/badge/LabEx-Hands--on_Labs-2F80ED?style=for-the-badge&logo=linux&logoColor=white)](https://labex.io)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Networking](https://img.shields.io/badge/Network_Security-0E83CD?style=for-the-badge&logo=cisco&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ### 💻 Full Stack Java Development *(TechPro Education — 10 ay)*
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -144,14 +159,43 @@ class EkremTunckir:
 
 <div align="center">
 
-| Proje | Alan | Açıklama |
-|-------|------|----------|
-| 🔐 [cybersec-toolkit](https://github.com/ekremtunckir35) | Cyber Security | Python ile güvenlik araçları — port tarayıcı, banner grabber |
-| 🗄️ [SQL](https://github.com/ekremtunckir35/SQL) | Veri Tabanı | İleri SQL sorguları ve veri analizi |
-| 🐍 [Python / Data Science](https://github.com/ekremtunckir35) | ML & Data | NumPy, Pandas, ML modelleri |
-| ☕ [Full Stack Java](https://github.com/ekremtunckir35) | Backend | Spring Boot, Hibernate, REST API |
+| Proje | Alan | Durum | Açıklama |
+|-------|------|-------|----------|
+| 🔐 [cybersec-toolkit](https://github.com/ekremtunckir35) | Cyber Security | ⏳ Geliştiriliyor | Python güvenlik araçları — port tarayıcı, banner grabber |
+| 🗄️ [SQL](https://github.com/ekremtunckir35/SQL) | Veri Tabanı | ✅ Mevcut | İleri SQL sorguları ve veri analizi |
+| 🐍 Python / Data Science | ML & Data | 🔜 Yakında | NumPy, Pandas, ML modelleri — özgün projeler |
+| ☕ Full Stack Java | Backend | 🔜 Yakında | Spring Boot, REST API, güvenli uygulama geliştirme |
+| 🌐 Frontend | React / Next.js | 🔜 Yakında | React projeleri, güvenlik odaklı web uygulamaları |
 
 </div>
+
+> 💡 **Not:** Repolarımda şu an gördüğüm derslerin pratik kodları bulunuyor.
+> Öğrendiklerimi pekiştirmek için geliştireceğim **özgün projeler** ve
+> bunların **Cyber Security ile entegrasyonu** yakında eklenecek.
+
+---
+
+## 🗺️ Proje Yol Haritam
+
+```
+ŞU AN     → Ders kodları & pratik çalışmalar               ✅
+            └── Python, Java, SQL, NumPy, Pandas, React...
+
+KISA VADE → Özgün Backend & Frontend projeleri             🔜
+            └── Spring Boot REST API (güvenli uygulama)
+            └── React / Next.js web uygulaması
+            └── Data Science analiz projeleri
+
+ORTA VADE → Cyber Security entegrasyonu                    🔜
+            └── Güvenlik açığı barındıran uygulama + analiz
+            └── Python ile güvenlik araçları geliştirme
+            └── Log analizi & anomali tespiti (ML + Security)
+
+UZUN VADE → Tam Cyber Security Portfolio                   🎯
+            └── Pentest raporları
+            └── CTF çözümleri
+            └── SOC / Blue Team araçları
+```
 
 ---
 
@@ -168,12 +212,24 @@ class EkremTunckir:
 
 ## 🎯 Hedeflerim
 
+**✅ Tamamlananlar**
 - [x] TechPro Education — AI Literacy sertifikası *(May 2024)*
 - [x] TechPro Education — Data Science & ML Engineer sertifikası *(Haz 2024)*
 - [x] TechPro Education — Full Stack Java Developer sertifikası *(Ağu 2025)*
 - [x] TryHackMe — Pre Security Learning Path *(Oca 2026)*
 - [x] Linux & Command Line temelleri — Codecademy *(Şub 2026)*
 
+**🔜 Proje Geliştirme**
+- [ ] Backend projesi — Spring Boot + Spring Security ile güvenli REST API
+- [ ] Frontend projesi — React / Next.js ile güvenlik odaklı web uygulaması
+- [ ] Data Science projesi — anomali tespiti / log analizi (ML + Security)
+- [ ] Cyber Security entegrasyonu — projeleri güvenlik açısından analiz et
+
+**🔐 Cyber Security**
+- [ ] TryHackMe — SOC Level 1 Learning Path
+- [ ] CompTIA Security+ sertifikasyonu
+- [ ] CTF (Capture The Flag) yarışmalarına aktif katılım
+- [ ] Pentest odaklı Cyber Security araçları portfolio'su
 
 ---
 
@@ -183,6 +239,7 @@ class EkremTunckir:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ekremtunçkır)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/BY-EKREM)
+[![LabEx](https://img.shields.io/badge/LabEx-2F80ED?style=for-the-badge&logo=linux&logoColor=white)](https://labex.io)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ekremtunckir35)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:ekremtunckir@outlook.com)
 
