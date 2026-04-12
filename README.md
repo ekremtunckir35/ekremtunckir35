@@ -203,8 +203,14 @@ UZUN VADE → Tam Cyber Security Portfolio                   🎯
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ekremtunckir35&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekremtunckir35&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ekremtunckir35&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekremtunckir35&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ekremtunckir35&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
