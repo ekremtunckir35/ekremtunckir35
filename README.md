@@ -173,10 +173,7 @@ class EkremTunckir:
 - [x] TechPro Education — Full Stack Java Developer sertifikası *(Ağu 2025)*
 - [x] TryHackMe — Pre Security Learning Path *(Oca 2026)*
 - [x] Linux & Command Line temelleri — Codecademy *(Şub 2026)*
-- [ ] 🔐 TryHackMe — SOC Level 1 Learning Path
-- [ ] 🔐 CompTIA Security+ sertifikasyonu
-- [ ] CTF (Capture The Flag) yarışmalarına aktif katılım
-- [ ] Cyber Security araçları portfolio projesi yayınla
+
 
 ---
 
