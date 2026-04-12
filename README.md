@@ -4,7 +4,7 @@
 
 ### 🔐 Cyber Security Trainee | 💻 Full Stack Java Developer | 📊 Data Scientist & ML Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=TechPro+Education+%7C+Full+Stack+Java+Developer+%E2%9C%85;TechPro+Education+%7C+Data+Scientist+%26+ML+Engineer+%E2%9C%85;TryHackMe+Pre+Security+%7C+Linux+%7C+Command+Line+%E2%9C%85;LabEx+Hands-on+Cyber+Security+Labs+%F0%9F%94%90;Cyber+Security+yolculu%C4%9Fum+devam+ediyor+%F0%9F%94%90" alt="Typing SVG" />
+<img src="<img src="./oak-academy-logo.png" height="40" alt="OakAcademy"/>font=Fira+Code&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=TechPro+Education+%7C+Full+Stack+Java+Developer+%E2%9C%85;TechPro+Education+%7C+Data+Scientist+%26+ML+Engineer+%E2%9C%85;TryHackMe+Pre+Security+%7C+Linux+%7C+Command+Line+%E2%9C%85;LabEx+Hands-on+Cyber+Security+Labs+%F0%9F%94%90;Cyber+Security+yolculu%C4%9Fum+devam+ediyor+%F0%9F%94%90" alt="Typing SVG" />
 
 ---
 
